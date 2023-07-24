@@ -1,0 +1,616 @@
+;Set Relative Position
+G91
+;Set Relative Position
+G91
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;extrude to
+G1 X0 Y0.1 Z0
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X-10 Y-10
+;Move to
+G0 X0 Y0 Z10
+;Set Relative Position
+G91
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X-10 Y0 Z0
+;Move to
+G0 X0 Y0.2 Z0
+;extrude to
+G1 X10 Y0 Z0
+;Move to
+G0 X-10 Y-10
