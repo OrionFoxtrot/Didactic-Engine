@@ -1,3 +1,4 @@
+; Sample Output Code to generate a square of size 10x10mm
 ; Ender 3 Custom Start G-code                
 M140 S0                
 M105                
